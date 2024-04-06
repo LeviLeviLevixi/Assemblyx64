@@ -15,7 +15,7 @@ mod
 plus
 prod
 putll
-quot  ;負/正と負/負がまだ
+quot  ;正/正のみ
 saveload
 sort
 space
