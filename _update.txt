@@ -11,7 +11,7 @@ init
 max
 min
 minus
-mod
+mod  ;正/正のみ
 plus
 prod
 putll
