@@ -1,0 +1,25 @@
+////templateに追加済み
+abs
+at
+cin
+compare
+cout
+endl
+exit
+getline
+init
+max
+min
+minus
+mod
+plus
+prod
+putll
+quot  ;負/正と負/負がまだ
+saveload
+sort
+space
+stoll
+swap
+////templateに追加待ち
+sqrt
